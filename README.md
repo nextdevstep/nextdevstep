@@ -1,4 +1,5 @@
 ## Hi there 👋
+[![GeeksforGeeks stats](https://gfgstatscard.vercel.app/nirajachai7pw)](https://www.geeksforgeeks.org/user/nirajachai7pw/)
 
 <!--
 **nextdevstep/nextdevstep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
